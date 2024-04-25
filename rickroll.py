@@ -61,7 +61,7 @@ if __name__ == "__main__":
         "Visit:\nyoutube.com/watch\n?v=xvFZjo5PgG0",
         ["open", "https://www.youtube.com/watch?v=xvFZjo5PgG0"]
     ]
-    texts += ["oh, almost forgot:\n\nShare this app 😃"] * 100
+    texts += ["oh, almost forgot:\n\nJust Leave It..."] * 100
     font = "MS Sans Serif"  # Set the desired font name
     text_size = 200  # Set the desired text size in pixels
     
